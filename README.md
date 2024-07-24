@@ -15,8 +15,8 @@ Make sure you have the following installed on your machine:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/danielreinhard1129/template-express-prisma-ts
+    cd template-express-prisma-ts
     ```
 
 2. **Create a `.env` file based on `.env.example`:**
