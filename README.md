@@ -33,6 +33,12 @@ Make sure you have the following installed on your machine:
     npm install
     ```
 
+4. **Run database migrations:**
+
+    ```bash
+    npx prisma migrate dev
+    ```
+
 ### Running the Project
 
 To run the project in development mode:
